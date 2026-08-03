@@ -1,0 +1,28 @@
+# Executables
+main
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# macOS debug symbols
+*.dSYM/
+
+# macOS system files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Build directories
+build/
+bin/
