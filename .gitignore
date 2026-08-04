@@ -26,3 +26,6 @@ compile_commands.json
 # Build directories
 build/
 bin/
+
+# Build output
+bin/
