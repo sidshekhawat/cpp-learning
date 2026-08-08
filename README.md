@@ -51,8 +51,8 @@ This repository follows **Bro Code's C++ Course** while organizing every concept
 
 ## 🚀 Progress
 
-- [ ] Basics
-- [ ] Control Flow
+- [X] Basics
+- [X] Control Flow
 - [ ] Functions
 - [ ] Arrays
 - [ ] Pointers & Memory
