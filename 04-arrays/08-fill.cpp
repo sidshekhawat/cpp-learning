@@ -1,0 +1,20 @@
+/*  fill() = Fills a range of elements with a specified value
+    fill(begin, end, value)
+*/
+
+#include <iostream>
+
+int main(){
+
+    const int SIZE = 100;
+    std::string foods[SIZE];
+
+    fill(foods, foods + (SIZE/2) , "pizza");
+    fill(foods + (SIZE/2), foods + SIZE, "hamburger");
+
+    for(std::string food : foods){
+        std::cout << food <<std::endl;
+    }
+
+    return 0;
+}
