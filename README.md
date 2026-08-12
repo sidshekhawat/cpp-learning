@@ -54,7 +54,7 @@ This repository follows **Bro Code's C++ Course** while organizing every concept
 - [X] Basics
 - [X] Control Flow
 - [ ] Functions
-- [ ] Arrays
+- [X] Arrays
 - [ ] Pointers & Memory
 - [ ] Structures & Enums
 - [ ] Object-Oriented Programming
