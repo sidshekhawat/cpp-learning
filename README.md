@@ -53,14 +53,14 @@ This repository follows **Bro Code's C++ Course** while organizing every concept
 
 - [X] Basics
 - [X] Control Flow
-- [ ] Functions
+- [X] Functions
 - [X] Arrays
-- [ ] Pointers & Memory
-- [ ] Structures & Enums
-- [ ] Object-Oriented Programming
+- [X] Pointers & Memory
+- [X] Structures & Enums
+- [X] Object-Oriented Programming
 - [ ] STL
 - [ ] File Handling
-- [ ] Projects
+- [X] Projects
 - [ ] Data Structures & Algorithms
 
 ---
